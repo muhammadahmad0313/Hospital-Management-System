@@ -1,0 +1,6 @@
+Heart 1500
+Lungs 2000
+X-Ray 500
+heart 1500
+lungs 2000
+x-ray 500
